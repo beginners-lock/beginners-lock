@@ -11,15 +11,16 @@
 ####  💞️ I’m looking to collaborate with other developers and contribute what I can to the tech community.
 ####  📫 How to reach me on:
 <div align="center">
-  <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" width="20" style="border-radius:50%">
+  <div href="https://twitter.com/beginners_lock" target="_blank">
+    <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" width="40">
+  </div>&nbsp;&nbsp;
+  <div href="https://www.linkedin.com/in/rophi-chukwu-612837212/" target="_blank">
+    <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" width="40">
+  </div>&nbsp;&nbsp;
+  <div href="https://www.instagram.com/beginners_lock/" target="_blank">
+    <img src="https://www.iconfinder.com/icons/3225191/app_instagram_logo_media_popular_social_icon" width="40">
+  </div>&nbsp;&nbsp;
 </div>
-  
-
-</div>
-
--                    instagram   _redcee_
--                    whatsapp    +234 813 497 2718
--                    email       chukwurophi@gmail.com
  
 ### :hammer_and_wrench: Languages and Tools :
   <div align="center">
