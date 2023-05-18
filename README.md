@@ -11,7 +11,7 @@
 ####  💞️ I’m looking to collaborate with other developers and contribute what I can to the tech community.
 ####  📫 How to reach me on:
 <div align="center">
-  <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png">
+  <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" width="20" style="border-radius:50%">
 </div>
   
 
