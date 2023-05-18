@@ -11,7 +11,10 @@
 ####  💞️ I’m looking to collaborate with other developers and contribute what I can to the tech community.
 ####  📫 How to reach me on:
 <div align="center">
-  <div><img src="[[https://www.flaticon.com/free-icon/twitter_733579?term=twitter&page=1&position=1&origin=search&related_id=733579](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-128.png)](https://www.iconfinder.com/icons/5296514/bird_tweet_twitter_twitter_logo_icon)" width="20"></div>
+  ![image](https://github.com/beginners-lock/beginners-lock/assets/99103645/a1da89b3-fd59-4b5a-b722-05b521673d82)
+</div>
+  
+
 </div>
 
 -                    instagram   _redcee_
