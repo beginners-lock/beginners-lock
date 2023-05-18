@@ -18,7 +18,7 @@
     <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" width="40">
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/beginners_lock/" target="_blank">
-    <img src="https://www.iconfinder.com/icons/3225191/app_instagram_logo_media_popular_social_icon.png" width="40">
+    <img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-256.png" width="40">
   </a>&nbsp;&nbsp;
 </div>
  
