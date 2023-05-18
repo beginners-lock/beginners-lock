@@ -1,5 +1,5 @@
 <div id="greeting" align="center">
-  <div align="center" font-weight="bold">Hey there <img src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_medium-dark-skin-tone_1f44b-1f3fe_1f3fe.png" width="20"></div>
+  <div align="center"><b>Hey there <b><img src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_medium-dark-skin-tone_1f44b-1f3fe_1f3fe.png" width="20"></div>
 </div>
 
 <div id="header" align="center">
