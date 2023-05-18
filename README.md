@@ -11,15 +11,15 @@
 ####  💞️ I’m looking to collaborate with other developers and contribute what I can to the tech community.
 ####  📫 How to reach me on:
 <div align="center">
-  <div href="https://twitter.com/beginners_lock" target="_blank">
+  <a href="https://twitter.com/beginners_lock" target="_blank">
     <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" width="40">
-  </div>&nbsp;&nbsp;
-  <div href="https://www.linkedin.com/in/rophi-chukwu-612837212/" target="_blank">
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/rophi-chukwu-612837212/" target="_blank">
     <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" width="40">
-  </div>&nbsp;&nbsp;
-  <div href="https://www.instagram.com/beginners_lock/" target="_blank">
-    <img src="https://www.iconfinder.com/icons/3225191/app_instagram_logo_media_popular_social_icon" width="40">
-  </div>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/beginners_lock/" target="_blank">
+    <img src="https://www.iconfinder.com/icons/3225191/app_instagram_logo_media_popular_social_icon.png" width="40">
+  </a>&nbsp;&nbsp;
 </div>
  
 ### :hammer_and_wrench: Languages and Tools :
