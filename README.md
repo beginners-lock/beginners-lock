@@ -1,3 +1,7 @@
+<div>
+  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100">
+</div>
+
 - 👋 Hi, I’m @beginners-lock
 - 👀 I’m interested in Programming in general
 - 🌱 I’m currently learning Full stack Web Dev and Artificial Jntelligence
