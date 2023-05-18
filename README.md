@@ -6,10 +6,10 @@
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="200">
 </div>
 
-##  👀 I’m a Front end developer mainly using ReactJS mostly. When I switch up to Full Stack, I use the MERN Stack.
-###  🌱 I’m currently learning Data Analytics, Blockchain Engineering and Artificial Jntelligence.
-###  💞️ I’m looking to collaborate with other developers and contribute what I can to the tech community.
-### 📫 How to reach me on:
+####  👀 I’m a Front end developer mainly using ReactJS mostly. When I switch up to Full Stack, I use the MERN Stack.
+####  🌱 I’m currently learning Data Analytics, Blockchain Engineering and Artificial Jntelligence.
+####  💞️ I’m looking to collaborate with other developers and contribute what I can to the tech community.
+####  📫 How to reach me on:
 <div align="center">
   <div><img src="https://www.flaticon.com/free-icon/twitter_733579?term=twitter&page=1&position=1&origin=search&related_id=733579" width="20"></div>
 </div>
