@@ -9,7 +9,7 @@
 ####  👀 I’m a Front end developer mainly using ReactJS mostly. When I switch up to Full Stack, I use the MERN Stack.
 ####  🌱 I’m currently learning Data Analytics, Blockchain Engineering and Artificial Jntelligence.
 ####  💞️ I’m looking to collaborate with other developers and contribute what I can to the tech community.
-####  📫 How to reach me on:
+####  📫 How to reach me:
 <div align="center">
   <a href="https://twitter.com/beginners_lock" target="_blank">
     <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" width="40">
