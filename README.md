@@ -10,7 +10,7 @@
    My coding alter ego  goes by <strong>beginners_lock</strong>
 </div>
 <br/>
-<strong decoration="underline">About me</strong>
+<strong style="text-decoration:underline;">About me</strong>
 ####  👀 I’m a software developer who loves building stuff...name it: Web Applications, Desktop Applications and Mobile Applications.
 ####  🌱 I’m currently learning System/Software Architecture and Design patterns as I have started building larger applications.
 ####  🔮 In the future I plan to migrate Data Analytics, Artificial Intelligence and Blockchain Technology.
