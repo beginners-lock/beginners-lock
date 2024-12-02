@@ -18,27 +18,33 @@
 ####  💞️ I’m looking to collaborate with other developers and contribute what I can to the tech community.
 ####  📫 How to reach me:
 
-<div align="center">
-  <a href="https://github.com/beginners-lock" style="text-decoration:none;">
-      <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" alt="Github"/>
-  </a>&nbsp;&nbsp;
+<br/>
 
-  <a href="https://ng.linkedin.com/in/rophi-chukwu" style="text-decoration:none;">
-      <img src="https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>&nbsp;&nbsp;
-  
-  <a href="https://twitter.com/beginners_lock" target="_blank">
-    <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" width="40">
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/rophi-chukwu-612837212/" target="_blank">
-    <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" width="40">
-  </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/beginners_lock/" target="_blank">
-    <img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-256.png" width="40">
-  </a>&nbsp;&nbsp;
-</div>
+[<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" alt="Github"/>](https://github.com/beginners-lock)
+[<img src="https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>](https://ng.linkedin.com/in/rophi-chukwu)
+[<img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=X&logoColor=white" alt="Twitter/X"/>](https://x.com/beginners_lock)
+[<img src="https://img.shields.io/badge/Instagram-ff0069?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>](https://www.instagram.com/beginners_lock/)
+
+<br/>
  
 ### :hammer_and_wrench: Languages and Tools :
+
+![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white)
+![Node.js](https://img.shields.io/badge/Nodejs-5FA04E?style=for-the-badge&logo=Node.js&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=Prisma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=Firebase&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=Electron&logoColor=white)
+![NextJS](https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=Next.js&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=Netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)
+
   <div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;&nbsp;
@@ -50,9 +56,12 @@
   </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=beginners-lock)](https://git.io/streak-stats)
+[![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=beginners-lock)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beginners-lock)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=beginners-lock)](https://github.com/beginners-lock/github-readme-stats)
+
+[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beginners-lock&layout=donut-vertical)](https://github.com/beginners-lock/github-readme-stats)
+
 
 <!---
 beginners-lock/beginners-lock is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
