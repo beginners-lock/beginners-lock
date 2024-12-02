@@ -47,7 +47,8 @@
 
 
 ### :fire: My Stats :
-[![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=beginners-lock)](https://git.io/streak-stats)
+<!---[![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=beginners-lock)](https://git.io/streak-stats)--->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=beginners-lock)](https://git.io/streak-stats)
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=beginners-lock)](https://github.com/beginners-lock/github-readme-stats)
 
