@@ -9,14 +9,15 @@
 <div id="header" align="left">
    My coding alter ego  goes by <strong>beginners_lock</strong>
 </div>
-<br/>
-<strong style="text-decoration:underline;">About me</strong>
-<br/>
+
+## About me
+
 ####  👀 I’m a software developer who loves building stuff...name it: Web Applications, Desktop Applications and Mobile Applications.
 ####  🌱 I’m currently learning System/Software Architecture and Design patterns as I have started building larger applications.
 ####  🔮 In the future I plan to migrate Data Analytics, Artificial Intelligence and Blockchain Technology.
 ####  💞️ I’m looking to collaborate with other developers and contribute what I can to the tech community.
 ####  📫 How to reach me:
+
 <div align="center">
   <a href="https://github.com/beginners-lock" style="text-decoration:none;">
       <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" alt="Github"/>
