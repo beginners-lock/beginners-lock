@@ -10,11 +10,14 @@
    My coding alter ego  goes by <strong>beginners_lock</strong>
 </div>
 
-####  👀 I’m a Front end developer mainly using ReactJS mostly. When I switch up to Full Stack, I use the MERN Stack.
-####  🌱 I’m currently learning Data Analytics, Blockchain Engineering and Artificial Jntelligence.
+####  👀 I’m a software developer who loves building stuff...name it: Web Applications, Desktop Applications and Mobile Applications.
+####  🌱 I’m currently learning System/Software Architecture and Design patterns as I have started building larger applications.
+####  🔮 In the future I plan to migrate Data Analytics, Artificial Intelligence and Blockchain Technology.
 ####  💞️ I’m looking to collaborate with other developers and contribute what I can to the tech community.
 ####  📫 How to reach me:
 <div align="center">
+  ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+  
   <a href="https://twitter.com/beginners_lock" target="_blank">
     <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" width="40">
   </a>&nbsp;&nbsp;
