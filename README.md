@@ -17,8 +17,12 @@
 ####  💞️ I’m looking to collaborate with other developers and contribute what I can to the tech community.
 ####  📫 How to reach me:
 <div align="center">
-  <a href="https://www.linkedin.com/in/[YourLinkedIn]/">
+  <a href="https://github.com/beginners-lock">
       <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" alt="Github"/>
+  </a>
+
+  <a href="https://ng.linkedin.com/in/rophi-chukwu">
+      <img src="https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
   
