@@ -1,9 +1,13 @@
 <div id="greeting" align="left">
-  <h2><b size="30px">Welcome </b><img src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_medium-dark-skin-tone_1f44b-1f3fe_1f3fe.png" width="20"></h2>
+  <h2><b size="30px">Hello there </b><img src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_medium-dark-skin-tone_1f44b-1f3fe_1f3fe.png" width="20"></h2>
 </div>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="200">
+   I'm Rophi; a passionate Tech Enthusiast and Javascript/Typescript fanatic. 
+</div>
+
+<div id="header" align="center">
+   My coding alter ego  goes by <strong>beginners_lock</strong>
 </div>
 
 ####  👀 I’m a Front end developer mainly using ReactJS mostly. When I switch up to Full Stack, I use the MERN Stack.
