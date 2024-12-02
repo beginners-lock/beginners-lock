@@ -2,11 +2,11 @@
   <h2><b size="30px">Hello there </b><img src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_medium-dark-skin-tone_1f44b-1f3fe_1f3fe.png" width="20"></h2>
 </div>
 
-<div id="header" align="center">
+<div id="header" align="left">
    I'm Rophi; a passionate Tech Enthusiast and Javascript/Typescript fanatic. 
 </div>
 
-<div id="header" align="center">
+<div id="header" align="left">
    My coding alter ego  goes by <strong>beginners_lock</strong>
 </div>
 
