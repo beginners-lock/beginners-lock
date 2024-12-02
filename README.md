@@ -21,11 +21,11 @@
 <div align="center">
   <a href="https://github.com/beginners-lock" style="text-decoration:none;">
       <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" alt="Github"/>
-  </a>
+  </a>&nbsp;&nbsp;
 
   <a href="https://ng.linkedin.com/in/rophi-chukwu" style="text-decoration:none;">
       <img src="https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  </a>&nbsp;&nbsp;
   
   <a href="https://twitter.com/beginners_lock" target="_blank">
     <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" width="40">
