@@ -54,7 +54,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=beginners-lock)](https://github.com/beginners-lock/github-profile-trophy)
 
-[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beginners-lock&layout=donut-vertical)](https://github.com/beginners-lock/github-readme-stats)
+[![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beginners-lock)](https://github.com/beginners-lock/github-readme-stats)
 
 
 <!---
