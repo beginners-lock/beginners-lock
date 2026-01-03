@@ -50,7 +50,7 @@
 <!---[![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=beginners-lock)](https://git.io/streak-stats)--->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=beginners-lock)](https://git.io/streak-stats)
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=beginners-lock&cache_seconds=7200)](https://github.com/beginners-lock/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=beginners-lock)](https://github.com/beginners-lock/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=beginners-lock)](https://github.com/beginners-lock/github-profile-trophy)
 
