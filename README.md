@@ -45,6 +45,7 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=Netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)
 
+![Profile Views](https://komarev.com/ghpvc/?username=rophi&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
 
 ### :fire: My Stats :
 <!---[![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=beginners-lock)](https://git.io/streak-stats)--->
